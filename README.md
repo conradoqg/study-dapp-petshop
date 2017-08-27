@@ -4,3 +4,4 @@
 Implemented samples and exercices:
 
 - [Pet Shop](https://github.com/conradoqg/study-dapps/tree/master/petshop)
+- [Open Zeppelin Token Tutorial](https://github.com/conradoqg/study-dapps/tree/master/tutorialtoken)
