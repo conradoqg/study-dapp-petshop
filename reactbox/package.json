@@ -1,9 +1,9 @@
 {
-  "name": "react-auth-box",
-  "description": "Sample of the react auth box from Truffle Netowrk",
+  "name": "react-box",
+  "description": "Sample of the react box from Truffle Netowrk",
   "version": "0.1.0",
   "author": "Conrado Quilles Gomes <conradoqg@gmail.com>",
-  "homepage": "https://github.com/conradoqg/study-dapps/tree/master/reactauth",
+  "homepage": "https://github.com/conradoqg/study-dapps/tree/master/reactbox",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -46,8 +46,9 @@
     "react-dev-utils": "^0.4.2",
     "recursive-readdir": "2.1.0",
     "strip-ansi": "3.0.1",
-    "style-loader": "0.13.1",
+    "style-loader": "0.13.1",    
     "truffle-contract": "^1.1.8",
+    "truffle-solidity-loader": "0.0.8",
     "url-loader": "0.5.7",
     "webpack": "1.14.0",
     "webpack-dev-server": "1.16.2",
@@ -55,14 +56,9 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "dotenv": "^2.0.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.2",
-    "react-router": "^3.0.2",
-    "react-router-redux": "^4.0.7",
-    "redux": "^3.6.0",
-    "redux-auth-wrapper": "^1.0.0",
-    "redux-thunk": "^2.2.0"
+    "react-dom": "^15.4.2"
   },
   "scripts": {
     "start": "node scripts/start.js",
