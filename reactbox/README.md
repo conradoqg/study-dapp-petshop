@@ -1,6 +1,6 @@
-# ~~D~~App - Pet Shop
+# ~~D~~App - React Box
 
-An improved version of the [Truffle Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop).
+The React Box sample from [Truffle](https://github.com/truffle-box/react-box).
 
 ## Development
 
@@ -8,7 +8,7 @@ An improved version of the [Truffle Pet Shop tutorial](http://truffleframework.c
 # Cloning the repository
 $ git clone git@github.com:conradoqg/study-dapps.git
 $ cd study-dapps
-$ cd petshop
+$ cd reactbox
 $ npm install
 
 # Install Truffle and TestRPC

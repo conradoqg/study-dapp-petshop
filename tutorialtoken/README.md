@@ -1,6 +1,6 @@
-# ~~D~~App - Pet Shop
+# ~~D~~App - React Box
 
-An improved version of the [Truffle Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop).
+The [Token Tutorial from Truffle](http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin).
 
 ## Development
 
@@ -8,7 +8,7 @@ An improved version of the [Truffle Pet Shop tutorial](http://truffleframework.c
 # Cloning the repository
 $ git clone git@github.com:conradoqg/study-dapps.git
 $ cd study-dapps
-$ cd petshop
+$ cd reactbox
 $ npm install
 
 # Install Truffle and TestRPC
